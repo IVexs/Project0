@@ -829,4 +829,40 @@
 [2016.01.10-21.35.50:608][942]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
 [2016.01.10-21.40.55:993][372]SourceControl: Info On branch master
 [2016.01.10-21.40.55:993][372]SourceControl: Info Your branch is up-to-date with 'origin/master'.
-[2016.01.10-21.40.55:993][372]SourceControl: Info Changes not stag
+[2016.01.10-21.40.55:993][372]SourceControl: Info Changes not staged for commit:
+[2016.01.10-21.40.55:994][372]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2016.01.10-21.40.55:994][372]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.01.10-21.40.55:994][372]SourceControl: Info 	modified:   Project0/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2016.01.10-21.40.55:994][372]SourceControl: Info 	modified:   Project0/Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2016.01.10-21.40.55:994][372]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/Editor.ini
+[2016.01.10-21.40.55:994][372]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.01.10-21.40.55:994][372]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/Engine.ini
+[2016.01.10-21.40.55:994][372]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/SourceControlSettings.ini
+[2016.01.10-21.40.55:994][372]SourceControl: Info 	modified:   Project0/Saved/Logs/Project0.log
+[2016.01.10-21.40.55:994][372]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.01.10-21.41.02:922][122]SourceControl: Info On branch master
+[2016.01.10-21.41.02:922][122]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.01.10-21.41.02:922][122]SourceControl: Info Changes not staged for commit:
+[2016.01.10-21.41.02:922][122]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2016.01.10-21.41.02:922][122]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.01.10-21.41.02:922][122]SourceControl: Info 	modified:   Project0/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2016.01.10-21.41.02:922][122]SourceControl: Info 	modified:   Project0/Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2016.01.10-21.41.02:922][122]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/Editor.ini
+[2016.01.10-21.41.02:922][122]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.01.10-21.41.02:922][122]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/Engine.ini
+[2016.01.10-21.41.02:922][122]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/SourceControlSettings.ini
+[2016.01.10-21.41.02:922][122]SourceControl: Info 	modified:   Project0/Saved/Logs/Project0.log
+[2016.01.10-21.41.02:922][122]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.01.10-21.43.16:515][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.01.10-21.43.16:515][917]PIE: New page: PIE session: Untitled (Jan 10, 2016, 9:43:16 AM)
+[2016.01.10-21.43.16:516][917]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Untitled
+[2016.01.10-21.43.16:523][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007362s)
+[2016.01.10-21.43.16:533][917]LogAIModule: Creating AISystem for world Untitled
+[2016.01.10-21.43.16:534][917]LogPlayLevel: PIE: World Init took: (0.011267s)
+[2016.01.10-21.43.16:534][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Untitled.Untitled to /Game/Maps/UEDPIE_0_Untitled.Untitled (0.019487s)
+[2016.01.10-21.43.16:535][917]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.01.10-21.43.16:612][917]LogInit: XAudio2 using 'Speakers (5- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.10-21.43.16:626][917]LogInit: FAudioDevice initialized.
+[2016.01.10-21.43.16:663][917]LogWorld: Game class is 'Sandbox_C'
+[2016.01.10-21.43.16:668][917]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2016.01.10-15.43.16
+[2016.01.10-21.43.16:668][917]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_10 has natively added scene component(s), but none of them were set as the actor's RootCompon
