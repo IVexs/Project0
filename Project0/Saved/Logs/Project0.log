@@ -125,4 +125,44 @@
 [2016.01.10-20.00.28:758][  0]LogFileHelpers: Loading map 'Template_Default' took 0.658
 [2016.01.10-20.00.28:890][  0]LogCollectionManager: Loaded 0 collections in 0.003217 seconds
 [2016.01.10-20.00.28:940][  0]LogFileCache: Scanning file cache for directory 'C:/Project0/Project0/Saved/Collections/' took 0.01s
-[2016.01.10-20.00.28:940][  0]LogFileCache: Scanning file cache for directory 'C:/Project0/P
+[2016.01.10-20.00.28:940][  0]LogFileCache: Scanning file cache for directory 'C:/Project0/Project0/Content/Developers/seths000/Collections/' took 0.01s
+[2016.01.10-20.00.28:940][  0]LogFileCache: Scanning file cache for directory 'C:/Project0/Project0/Content/Collections/' took 0.01s
+[2016.01.10-20.00.28:940][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2016.01.10-20.00.28:953][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 1893 classes and 338 folders.
+[2016.01.10-20.00.28:963][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.01.10-20.00.29:027][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.01.10-20.00.29:040][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.01.10-20.00.29:104][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.01.10-20.00.29:111][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.01.10-20.00.29:135][  0]LogLoad: Full Startup: 9.42 seconds (BP compile: 0.08 seconds)
+[2016.01.10-20.00.29:148][  0]LogOcInput: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.8.0.0
+[2016.01.10-20.00.29:238][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.01.10-20.00.29:413][  0]LogRenderer: Reallocating scene render targets to support 772x364 (Frame:2).
+[2016.01.10-20.00.29:865][  6]LogAssetRegistry: Asset discovery search completed in 4.9163 seconds
+[2016.01.10-20.00.29:865][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.01.10-20.00.29:865][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2016.01.10-20.01.50:427][845]SourceControl: Info On branch master
+[2016.01.10-20.01.50:427][845]SourceControl: Info nothing to commit, working directory clean
+[2016.01.10-20.02.09:934][119]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.10-20.02.10:312][150]LogEditorViewport: Clicking on Actor (context menu): AtmosphericFog (Atmospheric Fog)
+[2016.01.10-20.02.11:186][233]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2016.01.10-20.02.11:537][268]Cmd: DELETE
+[2016.01.10-20.02.11:537][268]Cmd: ACTOR DELETE
+[2016.01.10-20.02.11:537][268]LogEditorActor: Deleted Actor: AtmosphericFog
+[2016.01.10-20.02.11:577][268]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2016.01.10-20.02.11:630][270]SourceControl: Info fatal: /Temp/Untitled_1: '/Temp/Untitled_1' is outside repository
+[2016.01.10-20.02.12:109][327]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2016.01.10-20.02.12:390][355]Cmd: DELETE
+[2016.01.10-20.02.12:390][355]Cmd: ACTOR DELETE
+[2016.01.10-20.02.13:241][355]LogEditorActor: Deleted Actor: DirectionalLight
+[2016.01.10-20.02.13:261][355]LogEditorActor: Deleted 1 Actors (0.871 secs)
+[2016.01.10-20.02.14:875][548]Cmd: TRANSACTION UNDO
+[2016.01.10-20.02.14:875][548]LogEditorTransaction: Undo Delete Actors
+[2016.01.10-20.02.15:171][568]Cmd: TRANSACTION UNDO
+[2016.01.10-20.02.15:171][568]LogEditorTransaction: Undo Clicking on Actors
+[2016.01.10-20.10.29:691][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Project0/Project0/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2016.01.10-20.10.29:815][674]LogSavePackage: Save=120.412857ms
+[2016.01.10-20.10.29:816][674]LogSavePackage: Moving '../../../../../../Project0/Project0/Saved/Untitled_1_Auto1F692BFA647DBFDD8D40391853C5B8DA7.tmp' to '../../../../../../Project0/Project0/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2016.01.10-20.10.29:817][674]LogSavePackage: Total save time: 126.189083ms
+[2016.01.10-20.10.29:817][674]LogSavePackage:Display: Finished SavePackage ../../../../../../Project0/Project0/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2016.01.10-20.10.29
