@@ -165,4 +165,43 @@
 [2016.01.10-20.10.29:816][674]LogSavePackage: Moving '../../../../../../Project0/Project0/Saved/Untitled_1_Auto1F692BFA647DBFDD8D40391853C5B8DA7.tmp' to '../../../../../../Project0/Project0/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
 [2016.01.10-20.10.29:817][674]LogSavePackage: Total save time: 126.189083ms
 [2016.01.10-20.10.29:817][674]LogSavePackage:Display: Finished SavePackage ../../../../../../Project0/Project0/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
-[2016.01.10-20.10.29
+[2016.01.10-20.10.29:822][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.153
+[2016.01.10-20.10.29:822][674]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.153
+[2016.01.10-20.29.31:467][538]SourceControl: Info On branch master
+[2016.01.10-20.29.31:467][538]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.01.10-20.29.31:467][538]SourceControl: Info nothing to commit, working directory clean
+[2016.01.10-20.43.38:423][657]SourceControl: Info On branch master
+[2016.01.10-20.43.38:423][657]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.01.10-20.43.38:423][657]SourceControl: Info Changes not staged for commit:
+[2016.01.10-20.43.38:423][657]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2016.01.10-20.43.38:424][657]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.01.10-20.43.38:424][657]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.01.10-20.43.38:424][657]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.01.10-20.59.18:489][439]SourceControl: Info On branch master
+[2016.01.10-20.59.18:489][439]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.01.10-20.59.18:489][439]SourceControl: Info Changes not staged for commit:
+[2016.01.10-20.59.18:489][439]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2016.01.10-20.59.18:489][439]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.01.10-20.59.18:490][439]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.01.10-20.59.18:490][439]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.01.10-20.59.52:056][289]SourceControl: Info On branch master
+[2016.01.10-20.59.52:056][289]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.01.10-20.59.52:056][289]SourceControl: Info Changes not staged for commit:
+[2016.01.10-20.59.52:056][289]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2016.01.10-20.59.52:056][289]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.01.10-20.59.52:056][289]SourceControl: Info 	modified:   Project0/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.01.10-20.59.52:056][289]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.01.10-21.00.19:792][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test" FILE="../../../../../../Project0/Project0/Content/test.uasset" SILENT=true
+[2016.01.10-21.00.19:815][247]LogSavePackage: Save=20.541647ms
+[2016.01.10-21.00.19:815][247]LogSavePackage: Moving '../../../../../../Project0/Project0/Saved/testE661FE4549EABF3977BDA1B222EC7697.tmp' to '../../../../../../Project0/Project0/Content/test.uasset'
+[2016.01.10-21.00.19:820][247]LogSavePackage: Total save time: 25.366984ms
+[2016.01.10-21.00.19:820][247]LogSavePackage:Display: Finished SavePackage ../../../../../../Project0/Project0/Content/test.uasset
+[2016.01.10-21.00.27:371][490]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.01.10-21.00.27:417][490]SourceControl: Info [master f6713ff] test
+[2016.01.10-21.00.27:417][490]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2016.01.10-21.00.27:417][490]SourceControl: Info  create mode 100644 Project0/Content/test.uasset
+[2016.01.10-21.00.27:430][490]SourceControl: Info Commited [master f6713ff] test.
+[2016.01.10-21.00.35:558][434]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.01.10-21.01.34:390][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test" FILE="../../../../../../Project0/Project0/Content/test.uasset" SILENT=true
+[2016.01.10-21.01.34:417][915]LogSavePackage: Save=16.547424ms
+[2016.01.10-21.01.34:417][915]LogSavePackage: Moving '../..
