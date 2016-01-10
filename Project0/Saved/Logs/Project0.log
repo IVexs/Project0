@@ -1,0 +1,128 @@
+﻿[2016.01.10-20.00.20:274][  0]Log file open, 01/10/16 14:00:20
+[2016.01.10-20.00.20:274][  0]LogInit:Display: Running engine for game: Project0
+[2016.01.10-20.00.20:274][  0]LogPlatformFile: Not using cached read wrapper
+[2016.01.10-20.00.20:274][  0]LogInit:Display: RandInit(-1339333374) SRandInit(-1339333346).
+[2016.01.10-20.00.20:274][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+[2016.01.10-20.00.20:274][  0]LogStats: Stats thread started at 0.099288
+[2016.01.10-20.00.20:274][  0]LogInit: Version: 4.10.1-2791327+++depot+UE4-Releases+4.10
+[2016.01.10-20.00.20:274][  0]LogInit: API Version: 2758231
+[2016.01.10-20.00.20:274][  0]LogInit: Compiled (64-bit): Dec  4 2015 19:44:40
+[2016.01.10-20.00.20:274][  0]LogInit: Compiled with Visual C++: 19.00.23026.00
+[2016.01.10-20.00.20:274][  0]LogInit: Build Configuration: Development
+[2016.01.10-20.00.20:274][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.10
+[2016.01.10-20.00.20:274][  0]LogInit: Command line: 
+[2016.01.10-20.00.20:274][  0]LogInit: Base directory: C:/Program Files/Epic Games/4.10/Engine/Binaries/Win64/
+[2016.01.10-20.00.20:274][  0]LogInit: Rocket: 1
+[2016.01.10-20.00.20:285][  0]LogInit: Using libcurl 7.41.0
+[2016.01.10-20.00.20:285][  0]LogInit:  - built for x86_64-pc-win32
+[2016.01.10-20.00.20:285][  0]LogInit:  - supports SSL with WinSSL
+[2016.01.10-20.00.20:285][  0]LogInit:  - other features:
+[2016.01.10-20.00.20:285][  0]LogInit:      CURL_VERSION_SSL
+[2016.01.10-20.00.20:285][  0]LogInit:      CURL_VERSION_IPV6
+[2016.01.10-20.00.20:285][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2016.01.10-20.00.20:285][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2016.01.10-20.00.20:285][  0]LogInit:      CURL_VERSION_IDN
+[2016.01.10-20.00.20:285][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2016.01.10-20.00.20:285][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2016.01.10-20.00.20:285][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2016.01.10-20.00.20:285][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2016.01.10-20.00.20:285][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2016.01.10-20.00.20:299][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2016.01.10-20.00.20:315][  0]LogInit: Object subsystem initialized
+[2016.01.10-20.00.20:324][  0]LogInit: Selected Device Profile: [Windows]
+[2016.01.10-20.00.20:324][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.01.10-20.00.20:340][  0]LogInit: Computer: COMPUTER_
+[2016.01.10-20.00.20:340][  0]LogInit: User: seths000
+[2016.01.10-20.00.20:340][  0]LogInit: CPU Page size=4096, Cores=4
+[2016.01.10-20.00.20:340][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2016.01.10-20.00.20:340][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2016.01.10-20.00.20:340][  0]LogMemory: Platform Memory Stats for Windows
+[2016.01.10-20.00.20:340][  0]LogMemory: Process Physical Memory: 56.18 MB used, 56.18 MB peak
+[2016.01.10-20.00.20:340][  0]LogMemory: Process Virtual Memory: 55.04 MB used, 55.04 MB peak
+[2016.01.10-20.00.20:340][  0]LogMemory: Physical Memory: 5119.10 MB used, 8173.55 MB total
+[2016.01.10-20.00.20:340][  0]LogMemory: Virtual Memory: 379.95 MB used, 134217728.00 MB total
+[2016.01.10-20.00.20:399][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.01.10-20.00.21:127][  0]LogD3D11RHI: Found D3D11 adapter 0: AMD Radeon HD 7900 Series (Feature Level 11_0)
+[2016.01.10-20.00.21:127][  0]LogD3D11RHI: Adapter has 3054MB of dedicated video memory, 0MB of dedicated system memory, and 4086MB of shared system memory, 1 output[s]
+[2016.01.10-20.00.21:129][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2016.01.10-20.00.21:129][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4086MB of shared system memory, 0 output[s]
+[2016.01.10-20.00.21:129][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2016.01.10-20.00.21:148][  0]LogD3D11RHI: !Direct3DDevice
+[2016.01.10-20.00.21:148][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.01.10-20.00.21:161][  0]LogD3D11RHI: Async texture creation disabled: no driver support
+[2016.01.10-20.00.21:176][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../../Project0/Project0/Intermediate/Shaders/WorkingDirectory/35088/).
+[2016.01.10-20.00.21:176][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SETHS_~1/AppData/Local/Temp/UnrealShaderWorkingDir/8693AB764F77CAAE2B8DAA9E8446D6CE/'.
+[2016.01.10-20.00.21:176][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.01.10-20.00.22:408][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.01.10-20.00.22:417][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.01.10-20.00.22:430][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.01.10-20.00.22:438][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.01.10-20.00.22:448][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.01.10-20.00.22:454][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.01.10-20.00.22:459][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.01.10-20.00.22:464][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.01.10-20.00.22:469][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.01.10-20.00.22:475][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.01.10-20.00.22:480][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.01.10-20.00.22:500][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.01.10-20.00.22:500][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.01.10-20.00.22:501][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.01.10-20.00.22:524][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.01.10-20.00.22:529][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.01.10-20.00.22:532][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.01.10-20.00.22:539][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.01.10-20.00.22:539][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.01.10-20.00.22:683][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.01.10-20.00.22:851][  0]LogDerivedDataCache: Loaded boot cache 0.17s 41MB C:/Users/seths_000/AppData/Local/UnrealEngine/4.10/DerivedDataCache/Boot.ddc.
+[2016.01.10-20.00.22:851][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/seths_000/AppData/Local/UnrealEngine/4.10/DerivedDataCache/Boot.ddc
+[2016.01.10-20.00.22:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Project0/Project0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.01.10-20.00.22:851][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.01.10-20.00.22:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Project0/Project0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.01.10-20.00.22:851][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.01.10-20.00.22:935][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.01.10-20.00.22:949][  0]LogDerivedDataCache: Using Local data cache path C:/Users/seths_000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.01.10-20.00.23:241][  0]LogInit: Selected Device Profile: [Windows]
+[2016.01.10-20.00.23:245][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2016.01.10-20.00.23:394][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.01.10-20.00.23:395][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.01.10-20.00.23:784][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.01.10-20.00.24:846][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.01.10-20.00.24:959][  0]LogAssetRegistry: FAssetRegistry took 0.0108 seconds to start up
+[2016.01.10-20.00.25:200][  0]SourceControl: Info Source control is disabled
+[2016.01.10-20.00.25:246][  0]SourceControl: Info Source control is disabled
+[2016.01.10-20.00.25:262][  0]SourceControl: Info Source control is disabled
+[2016.01.10-20.00.25:283][  0]SourceControl: Info Source control is disabled
+[2016.01.10-20.00.25:648][  0]LogObj: 28633 objects as part of root set at end of initial load.
+[2016.01.10-20.00.25:648][  0]LogUObjectAllocator: 6099744 out of 0 bytes used by permanent object pool.
+[2016.01.10-20.00.25:724][  0]LogEngine: Initializing Engine...
+[2016.01.10-20.00.25:728][  0]LogHMD: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.8.0.0
+[2016.01.10-20.00.25:738][  0]LogHMD: SteamVR failed to initialize.  Err: 108
+[2016.01.10-20.00.25:923][  0]LogAIModule: Creating AISystem for world NewWorld
+[2016.01.10-20.00.25:953][  0]LogInit: XAudio2 using 'Speakers (5- Logitech G35 Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.01.10-20.00.25:963][  0]LogInit: FAudioDevice initialized.
+[2016.01.10-20.00.26:020][  0]LogDerivedDataCache: Saved boot cache 0.06s 41MB C:/Users/seths_000/AppData/Local/UnrealEngine/4.10/DerivedDataCache/Boot.ddc.
+[2016.01.10-20.00.26:042][  0]LogInit: Texture streaming: Enabled
+[2016.01.10-20.00.26:049][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2016.01.10-20.00.26:049][  0]LogAnalytics: [UEEditor.Rocket.Release] APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.10.1-2791327+++depot+UE4-Releases+4.10
+[2016.01.10-20.00.26:049][  0]LogAnalytics: [UEEditor.Rocket.Release] SetUserId d2d90c3d496d435247748b8a862ba2f4|29c3d26b1a8645a790439f2c686e792d|d2c3fc38-7c6d-41c3-b91c-9e8c3168caa7
+[2016.01.10-20.00.26:050][  0]LogAnalytics: [UEEditor.Rocket.Release] AnalyticsET::StartSession
+[2016.01.10-20.00.26:122][  0]LogInit: Transaction tracking system initialized
+[2016.01.10-20.00.26:173][  0]BlueprintLog: New page: Editor Load
+[2016.01.10-20.00.27:539][  0]LocalizationService: Info Localization service is disabled
+[2016.01.10-20.00.27:790][  0]LogConsoleResponse:Display: 
+[2016.01.10-20.00.27:975][  0]LogFileCache: Scanning file cache for directory 'C:/Project0/Project0/Content/' took 0.01s
+[2016.01.10-20.00.27:975][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2016.01.10-20.00.28:099][  0]SourceControl: Info Source control is disabled
+[2016.01.10-20.00.28:099][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.01.10-20.00.28:100][  0]LightingResults: New page: Lighting Build
+[2016.01.10-20.00.28:106][  0]MapCheck: New page: Map Check
+[2016.01.10-20.00.28:106][  0]LightingResults: New page: Lighting Build
+[2016.01.10-20.00.28:130][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000226862B420
+[2016.01.10-20.00.28:631][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2016.01.10-20.00.28:642][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.01.10-20.00.28:692][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.01.10-20.00.28:758][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 65.538ms to complete.
+[2016.01.10-20.00.28:758][  0]LogFileHelpers: Loading map 'Template_Default' took 0.658
+[2016.01.10-20.00.28:890][  0]LogCollectionManager: Loaded 0 collections in 0.003217 seconds
+[2016.01.10-20.00.28:940][  0]LogFileCache: Scanning file cache for directory 'C:/Project0/Project0/Saved/Collections/' took 0.01s
+[2016.01.10-20.00.28:940][  0]LogFileCache: Scanning file cache for directory 'C:/Project0/P
